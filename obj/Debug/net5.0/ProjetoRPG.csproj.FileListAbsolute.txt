@@ -1,0 +1,16 @@
+C:\Users\michel.guedes\Desktop\Testes\Dev\DigitalInovation\Labs\ProjetoRPG\bin\Debug\net5.0\ProjetoRPG.exe
+C:\Users\michel.guedes\Desktop\Testes\Dev\DigitalInovation\Labs\ProjetoRPG\bin\Debug\net5.0\ProjetoRPG.deps.json
+C:\Users\michel.guedes\Desktop\Testes\Dev\DigitalInovation\Labs\ProjetoRPG\bin\Debug\net5.0\ProjetoRPG.runtimeconfig.json
+C:\Users\michel.guedes\Desktop\Testes\Dev\DigitalInovation\Labs\ProjetoRPG\bin\Debug\net5.0\ProjetoRPG.runtimeconfig.dev.json
+C:\Users\michel.guedes\Desktop\Testes\Dev\DigitalInovation\Labs\ProjetoRPG\bin\Debug\net5.0\ProjetoRPG.dll
+C:\Users\michel.guedes\Desktop\Testes\Dev\DigitalInovation\Labs\ProjetoRPG\bin\Debug\net5.0\ref\ProjetoRPG.dll
+C:\Users\michel.guedes\Desktop\Testes\Dev\DigitalInovation\Labs\ProjetoRPG\bin\Debug\net5.0\ProjetoRPG.pdb
+C:\Users\michel.guedes\Desktop\Testes\Dev\DigitalInovation\Labs\ProjetoRPG\obj\Debug\net5.0\ProjetoRPG.csproj.AssemblyReference.cache
+C:\Users\michel.guedes\Desktop\Testes\Dev\DigitalInovation\Labs\ProjetoRPG\obj\Debug\net5.0\ProjetoRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michel.guedes\Desktop\Testes\Dev\DigitalInovation\Labs\ProjetoRPG\obj\Debug\net5.0\ProjetoRPG.AssemblyInfoInputs.cache
+C:\Users\michel.guedes\Desktop\Testes\Dev\DigitalInovation\Labs\ProjetoRPG\obj\Debug\net5.0\ProjetoRPG.AssemblyInfo.cs
+C:\Users\michel.guedes\Desktop\Testes\Dev\DigitalInovation\Labs\ProjetoRPG\obj\Debug\net5.0\ProjetoRPG.csproj.CoreCompileInputs.cache
+C:\Users\michel.guedes\Desktop\Testes\Dev\DigitalInovation\Labs\ProjetoRPG\obj\Debug\net5.0\ProjetoRPG.dll
+C:\Users\michel.guedes\Desktop\Testes\Dev\DigitalInovation\Labs\ProjetoRPG\obj\Debug\net5.0\ref\ProjetoRPG.dll
+C:\Users\michel.guedes\Desktop\Testes\Dev\DigitalInovation\Labs\ProjetoRPG\obj\Debug\net5.0\ProjetoRPG.pdb
+C:\Users\michel.guedes\Desktop\Testes\Dev\DigitalInovation\Labs\ProjetoRPG\obj\Debug\net5.0\ProjetoRPG.genruntimeconfig.cache
